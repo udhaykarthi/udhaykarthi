@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm Currently a final year CSE Graduate<br>I'm looking forward to collaborate on Open-Source projects that focuses on system designs<br>I'm Currently learning full stack frameworks that is based on java like Spring, and all the necessary build tools<br>Fun Fact: I took Bio for my boards and here am i learning all the algorithms in the world 
 
 
